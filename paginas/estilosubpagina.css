@@ -36,7 +36,7 @@
             display: flex;
             flex-wrap: wrap;
             gap: 40px;
-             justify-content: center;
+            justify-content: center;
         }
         .menu-item {
             background: #f5e9da;
